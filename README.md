@@ -1,6 +1,6 @@
-#  𓊈𒆜 PAINEL PWEB SONYC - V2.6 𒆜𓊉
+# 𓊈𒆜 PAINEL ? PAINEL LUFFY ? - V2.6  𒆜𓊉
 
-�? <b>SISTEMA SUPORTADO:</b></br>
+⚠️? <b>SISTEMA SUPORTADO:</b></br>
 👉 <b>(UBUNTU 18)</b></br>
 
 
@@ -9,20 +9,20 @@ apt install wget -y; bash <(wget -qO- https://github.com/luffyelbrabo/Painel-web
 ```
 </br>
 
-# 𓊈𒆜 CHAVE DE INSTALAÇÃO! 𒆜𓊉
+# 𓊈𒆜 CHAVE DE INSTALAÇÃO!  𒆜𓊉
 ```
-Chama no WhatSapp (74) 99939-3392
-Ou no Telegram @sonycltda
+Chama no WhatSapp (21) 967687736
+Ou no Telegram @luffyelbrabo
 
 ```
 
-# 𓊈𒆜 SINCRONIZAR NA VPS SSH! 𒆜𓊉
+# 𓊈𒆜 SINCRONIZAR NA VPS SSH!  𒆜𓊉
 ```
 apt install wget -y; bash <(wget -qO- https://github.com/luffyelbrabo/Painel-web/raw/main/install/sincpainel.sh)
 ```
 
 
-# 𓊈𒆜 ATUALIZAÇÕES: (10/11/2022) 𒆜𓊉
+# 𓊈𒆜 ATUALIZAÇÕES: (01/07/2023)  𒆜𓊉
 ```
 1- Comando pweb
 (Funciona via terminal SSH)
@@ -35,13 +35,13 @@ apt install wget -y; bash <(wget -qO- https://github.com/luffyelbrabo/Painel-web
 (Link na tela de login/Revenda e Login/Admin)
 (Troca de cor da Top-Bar e icones nos Textos)
 
-4- Background Área Revenda e Área Admin
+4- Background área Revenda e área Admin
 (Para alterar as imagens, bastar ir em persobalizar no menu lateral do admin e fazer o upload das imagens)
 
 5- Texto Flutuante na Tela Login/Revenda
-(📣 NOVIDADES AQUI !!!) Para editar, basta ir em /var/www/html/index.php (linha 86)
+(NOVIDADES AQUI !!!) Para editar, basta ir em /var/www/html/index.php (linha 86)
 
-6- Página de Termos de Uso editada
+6- Pagina de Termos de Uso editada
 (foi adicionado uma imagem no topo)
 (cor do background trocada)
 
@@ -64,7 +64,7 @@ apt install wget -y; bash <(wget -qO- https://github.com/luffyelbrabo/Painel-web
 (Foi removido para um bom funcionamento do painel)
 ```
 
-# 𓊈𒆜 IMAGENS: 𒆜𓊉
+# 𓊈𒆜 IMAGENS:  𒆜𓊉
 
 ![01](https://user-images.githubusercontent.com/65465300/201933925-90993364-fe92-4257-a611-9f92161bbdf2.png)
 
@@ -83,6 +83,7 @@ apt install wget -y; bash <(wget -qO- https://github.com/luffyelbrabo/Painel-web
 @swittecnologia
 @Davidsdy
 @sonycssh
+@luffyelbrabo
 
-# 𓊈𒆜 GRUPO SONYC SSH: 𒆜𓊉
-👉 https://t.me/sonycsshgp
+# 𓊈𒆜 GRUPO 𝑳𝑼𝑭𝑭𝒀𝑬𝑳𝑩𝑹𝑨𝑩𝑶.𝑶𝑭𝑪:  𒆜𓊉
+👉 https://t.me/luffyelbrabo_grupo_ofc 👈
