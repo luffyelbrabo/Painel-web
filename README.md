@@ -1,6 +1,6 @@
 # 𓊈𒆜 PAINEL 🚀 PAINEL LUFFY 🚀 - V2.6  𒆜𓊉
 
-⚠️? <b>SISTEMA SUPORTADO:</b></br>
+⚠️ <b>SISTEMA SUPORTADO:</b></br>
 👉 <b>(UBUNTU 18)</b></br>
 
 
